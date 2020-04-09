@@ -24,6 +24,6 @@ student.randomMethod()
 print(student.Name)
 
 
-Output :-
+Output:-
 It overrides the randomMethod placed in parent class. So when a object of child class calls this function this output will be printed. 
 Jintal
